@@ -5,12 +5,7 @@ import { NavLink } from "react-router-dom"
 function NavBar() {
 
     const linkStyles = {
-		// width: "100px",
-		// padding: "12px",
-		// margin: "0 6px 6px",
-		// background: "red",
-		textDecoration: "none",
-		// color: "white",
+		textDecoration: "none"
 	  };
 
     return (
