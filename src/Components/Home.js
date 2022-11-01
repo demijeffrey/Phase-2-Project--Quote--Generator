@@ -16,6 +16,7 @@ function Home({ favClick }) {
         <div>
             <h2 className="header3">Loaded with over 2000 inspirational quotes!</h2>
             <br />
+            <img src="https://viveconstyle.com/wp-content/uploads/2022/01/Start-where-you-are.jpg" />
             <Quote quote={quote} favClick={favClick} className="randomQuote" />
         </div>
     )
