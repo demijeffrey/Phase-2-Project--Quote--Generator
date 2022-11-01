@@ -18,6 +18,7 @@ function Home({ favClick }) {
             <br />
             <img className="image" src="https://viveconstyle.com/wp-content/uploads/2022/01/Start-where-you-are.jpg" />
             <img className="image2" src="https://graciousquotes.com/wp-content/uploads/2020/02/Short-Inspirational-Quotes-To-Inspire-You-Quickly-Gracious-Quotes-scaled.jpg" />
+            <img className="image" src="https://t3.ftcdn.net/jpg/02/59/04/18/360_F_259041853_cp094Ywgt7OID8GgociBYZ5gL6KUrgUJ.jpg" />
             <Quote quote={quote} favClick={favClick} className="randomQuote" />
         </div>
     )
