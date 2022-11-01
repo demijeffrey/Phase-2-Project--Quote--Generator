@@ -1,0 +1,109 @@
+{
+  "favorites": [
+    {
+      "_id": "bt75C05GKAp",
+      "content": "Honesty is the best policy.",
+      "author": "Benjamin Franklin",
+      "tags": [
+        "wisdom"
+      ],
+      "authorSlug": "benjamin-franklin",
+      "length": 27,
+      "dateAdded": "2020-12-08",
+      "dateModified": "2020-12-08",
+      "id": 9
+    },
+    {
+      "_id": "96eV21NlZKJ",
+      "content": "Make it your habit not to be critical about small things.",
+      "author": "Edward Everett Hale",
+      "tags": [
+        "wisdom"
+      ],
+      "authorSlug": "edward-everett-hale",
+      "length": 57,
+      "dateAdded": "2021-05-12",
+      "dateModified": "2021-05-12",
+      "id": 10
+    },
+    {
+      "_id": "0KzOsnrddItt",
+      "content": "Nothing will work unless you do.",
+      "author": "Maya Angelou",
+      "tags": [
+        "success"
+      ],
+      "authorSlug": "maya-angelou",
+      "length": 32,
+      "dateAdded": "2021-05-07",
+      "dateModified": "2022-07-04",
+      "id": 11
+    },
+    {
+      "_id": "8IyWC1hl--Je",
+      "content": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "author": "Buddha",
+      "tags": [
+        "wisdom"
+      ],
+      "authorSlug": "buddha",
+      "length": 90,
+      "dateAdded": "2021-05-05",
+      "dateModified": "2022-07-04",
+      "id": 12
+    },
+    {
+      "_id": "qgMKRwMNcB9G",
+      "content": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "tags": [
+        "famous-quotes"
+      ],
+      "authorSlug": "oscar-wilde",
+      "length": 44,
+      "dateAdded": "2020-12-06",
+      "dateModified": "2020-12-06",
+      "id": 13
+    },
+    {
+      "_id": "Bs98LxS5Id",
+      "author": "Abraham Lincoln",
+      "content": "You cannot escape the responsibility of tomorrow by evading it today.",
+      "tags": [
+        "history"
+      ],
+      "authorSlug": "abraham-lincoln",
+      "length": 69,
+      "dateAdded": "2022-03-12",
+      "dateModified": "2022-03-12",
+      "id": 14
+    }
+  ],
+  "myQuotes": [
+    {
+      "content": "There are always a million reasons not to do something.",
+      "author": "Jan Levinson",
+      "id": 4
+    },
+    {
+      "content": "Don't ever, for any reason, do anything for anyone, for any reason, ever, no matter what. No matter where. Or who, or who you are with, or where you are going or... or where you've been... ever. For any reason, whatsoever.",
+      "author": "Michael Scott",
+      "id": 6
+    },
+    {
+      "content": "You need to play to win. But you also need to win to play",
+      "author": "Michael Scott",
+      "id": 7
+    },
+    {
+      "content": "I wish there was a way to know you’re in the good old days, before you’ve actually left them.",
+      "author": "Andy Bernard",
+      "id": 8
+    },
+    {
+      "content": "You Only Live Once? False. You Live Every Day. You Only Die Once.",
+      "author": "Dwight Schrute",
+      "id": 9
+    }
+  ]
+}
