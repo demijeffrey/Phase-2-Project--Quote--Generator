@@ -104,3 +104,7 @@
   display: right;
   background-color: rgb(243, 145, 33);
 }
+
+.quoteCard {
+  background-color: green;
+}

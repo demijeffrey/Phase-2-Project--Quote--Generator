@@ -4,7 +4,7 @@ import '../App.css';
 function Quote({ quote, favClick, removeClick }) {
 
     return (
-        <div className="card text-center">
+        <div className="card text-center quoteCard">
             <div className="card-body">
                 <blockquote className="blockquote mb-0">
                 <p>"{quote.content}"</p>
