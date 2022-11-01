@@ -17,7 +17,7 @@ function Home({ favClick }) {
             <h2 className="header3">Loaded with over 2000 inspirational quotes!</h2>
             <br />
             <img className="image" src="https://viveconstyle.com/wp-content/uploads/2022/01/Start-where-you-are.jpg" />
-            <img src="https://graciousquotes.com/wp-content/uploads/2020/02/Short-Inspirational-Quotes-To-Inspire-You-Quickly-Gracious-Quotes-scaled.jpg" />
+            <img className="image2" src="https://graciousquotes.com/wp-content/uploads/2020/02/Short-Inspirational-Quotes-To-Inspire-You-Quickly-Gracious-Quotes-scaled.jpg" />
             <Quote quote={quote} favClick={favClick} className="randomQuote" />
         </div>
     )

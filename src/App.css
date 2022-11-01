@@ -118,5 +118,10 @@
 }
 
 .image {
-  width: 300px;
+  width: 320px;
+}
+
+.image2 {
+  width: 320px;
+  height: 570px;
 }
