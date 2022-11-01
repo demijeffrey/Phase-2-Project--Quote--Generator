@@ -125,3 +125,15 @@
   width: 450px;
   height: 570px;
 }
+
+.image3 {
+  width: 320px;
+  height: 575px;
+}
+
+.allImages {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
