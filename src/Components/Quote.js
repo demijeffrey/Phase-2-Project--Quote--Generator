@@ -8,7 +8,7 @@ function Quote({ quote, favClick, removeClick }) {
             <div className="card-body">
                 <blockquote className="blockquote mb-0">
                 <p>"{quote.content}"</p>
-                <footer className="blockquote-footer">{quote.author}</footer>
+                <footer className="blockquote-footer authorText">{quote.author}</footer>
                 </blockquote>
                 <br />
                 <button className="btn btn-outline-danger" onClick={() => favClick === null ? removeClick(quote) : favClick(quote)}>
