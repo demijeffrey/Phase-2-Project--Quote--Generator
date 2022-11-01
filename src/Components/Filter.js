@@ -1,7 +1,7 @@
 import React from "react";
 import '../App.css';
 
-function Filter() {
+function Filter({ categoryChange }) {
     return (
         <div>
             <select className="filter" onChange={categoryChange}>

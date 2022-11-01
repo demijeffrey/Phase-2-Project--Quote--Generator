@@ -40,16 +40,8 @@ function AllQuotes({ favClick }) {
     return (
         <div className="allQuotesContainer">
             <h2 className="header3">All Quotes</h2>
-
-            {/* <select className="filter" onChange={categoryChange}>
-                <option value="" disabled selected>Categories</option>
-                <option value="all">All</option>
-                <option value="love%7Chappiness">Love | Happiness</option>
-                <option value="history%7Ccivil-rights">History | Civil Rights</option>
-                <option value="technology,famous-quotes">Technology | Famous Quotes</option>
-            </select> */}
+            <Filter categoryChange={categoryChange} />
             <br />
-
             <button className="prevBtn" onClick={last20}>Previous Page</button><button className="nextBtn" onClick={next20}>Next Page</button>
             {quotes === [] ? "Loading..." : displayQuotes}
             <button className="prevBtn" onClick={last20}>Previous Page</button><button className="nextBtn" onClick={next20}>Next Page</button>
