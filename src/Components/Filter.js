@@ -6,7 +6,7 @@ function Filter({ categoryChange }) {
     return (
         <div>
             <select className="filter" onChange={categoryChange}>
-                <option value="" disabled selected>Categories</option>
+                <option disabled selected>Categories</option>
                 <option value="all">All</option>
                 <option value="love%7Chappiness">Love | Happiness</option>
                 <option value="history%7Ccivil-rights">History | Civil Rights</option>
