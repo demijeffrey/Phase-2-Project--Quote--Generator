@@ -43,7 +43,7 @@ function AllQuotes({ favClick }) {
             <Filter categoryChange={categoryChange} />
             <br />
             <button className="prevBtn" onClick={last20}>Previous Page</button><button className="nextBtn" onClick={next20}>Next Page</button>
-            {quotes === [] ? "Loading..." : displayQuotes}
+            {quotes === [ ] ? "Loading..." : displayQuotes}
             <button className="prevBtn" onClick={last20}>Previous Page</button><button className="nextBtn" onClick={next20}>Next Page</button>
         </div>
     )
