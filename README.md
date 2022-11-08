@@ -44,3 +44,9 @@ $ json-server --watch db.json --port 3001
 
 ## Resources
 * External API Resource - https://github.com/lukePeavey/quotable
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
